@@ -52,3 +52,46 @@ Webpack 可以將 HTML、CSS、JS 進行預處理編譯，將其打包成最少�
 * vue-loader: 使用 vue 框架可以採用 .vue 檔的開發，讓組件化開發更加容易。
 * ESlint: 預處理程式碼的結構，可以讓程式在團隊的可閱讀性提升，並限制不理想的程式編寫方式。
 
+## DDoS/CC 攻擊 與登入驗證
+
+### Distributed Denial-Of-Service attack && Challenge Collapsar (DDoS/CC)
+DDoS/CC 是使用自動操作系統針對特定網站進行高速操作去消耗伺服器的資源，以導致伺服器癱瘓。主要的防護方式有更改 Web Port，並針對大量不正常請求的IP進行屏蔽，
+### reCAPTCHA
+reCAPTCHA 是 Google 基於圖形驗證與滑鼠軌跡紀錄開發來辨識機器人的工具，是目前較主流的防機器人手段。
+
+## 什麼是SPA?
+### SPA說明
+SPA又稱單頁應用程式，畫面渲染交由前端JS來進行處理。
+
+### Multiple Page Application / Server Site Render (MPA/SSR)
+優點：<br>
+1. 學習容易
+2. 開發快速
+3. SEO效果優良
+
+缺點：<br>
+1. 每次換頁都重新加載公用數據
+2. 當專案複雜時難以維護
+3. 需大量使用 Cookie 和 Session 來記錄跳頁資料
+
+### Single Page Application / Client Site Render (SPA/CSR)
+優點：<br>
+1. 切換頁快速，用戶體驗好
+2. 減少對伺服器的資料要求
+3. 對於跳頁數據傳遞方便
+4. 對複雜或具規模的專案較易於管理
+
+缺點：<br>
+1. 對SEO不友善(目前Google搜尋引擎已無這問題)
+2. 學習成本高昂，需要搭配框架處理
+3. 首次進入網站讀取較久
+
+## CKeditor XSS 處理
+針對 CKeditor 在安全方面的處理主要以下幾種方式
+1. 黑名單：設定阻擋所限制的 Tag、屬性。
+2. 白名單：設定阻擋未設定通行的所有元素。
+3. 關閉原始碼工具： 關閉 Toolbar 的原始碼編輯工具。
+
+## MVC
+
+## Honeypot
