@@ -4,6 +4,8 @@
 自行建構的 Vue 架構，導入動態Router、VueRenderFunction。
 * 自行開發 Dialog 核心邏輯
 * 解決 CK4 對於 Vue 及 Webpack 耦合不良問題
+* 規劃動態 Routr ，讓節點可以透過後台UI方式來達成新增。
+* 採用 Model 來生成資料模型，封裝驗證在模型之中。
 
 ## [react-test](https://github.com/willy874/react-test)
 練習使用React進行切版。
