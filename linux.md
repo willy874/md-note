@@ -22,7 +22,9 @@ $ sudo su -
 ```
  curl http://localhost
 ```
+
 關閉防火牆
 ```
  sudo ufw disadle
 ```
+

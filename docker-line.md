@@ -18,7 +18,7 @@ $ docker rmi <Image ID>
 
 顯示所有容器
 ```
-$ docker ps -
+$ docker ps -a
 
 強制移除容器
 ```
