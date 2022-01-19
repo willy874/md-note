@@ -49,3 +49,54 @@ $ docker tag <Image ID> <Account Name>/<Tag Name>:<Tag>
 ```
 $ wsl --shutdown
 ```
+
+```yaml
+version: "3.7"
+
+services:
+  web:
+    build: .
+    command: 'npm run dev'
+    ports:
+      - '3010:8001'
+    env_file: .env
+    volumes:
+      - .:/code
+  backend:
+    image: willy/backend:latest
+    command:
+```
+
+
+```bash
+$ docker-compose up
+$ docker build --platform amd64 -t willy874/project-name:v0
+```
+
+```Dockerfile
+FROM node:16.13 as builder
+
+WORKDIR /code
+COPY . .
+COPY  package.json .
+COPY yarn.lock .
+RUN yarn install
+RUN npm run build
+
+FROM node:16.13
+
+WORKDIR /code
+
+RUN adduser  --disabled-password --no-create-home will
+
+RUN chown will /usr/local
+
+RUN yarn add express
+
+COPY --from=builder /code/dist .
+
+COPY . .
+
+USER will
+
+```
