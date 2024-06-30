@@ -9,9 +9,9 @@
 - [(7)微前端的溝通](./(7)微前端的溝通.md)
 - [(8)全域單例狀態管理-StateManager](./(8)全域單例狀態管理-StateManager.md)
 - [(9)全域單例狀態管理-HistoryRouter](./(9)全域單例狀態管理-HistoryRouter.md)
-- (10)全域單例狀態管理-HttpFetcher
-- (11)樣式管理問題
-- (12)CI/CD
+- [(10)全域單例狀態管理-HttpFetcher](./(10)全域單例狀態管理-HttpFetcher.md)
+- [(11)樣式管理問題](./(11)樣式管理問題.md)
+- [(12)CI/CD](./(12)CI&CD.md)
 - (13)Monorepo
 - (14)ModuleFederation-RemoteChunk
 - (15)ModuleFederation-SharedPackage
