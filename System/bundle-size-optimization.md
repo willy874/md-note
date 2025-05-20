@@ -2,7 +2,7 @@
 
 ## 專案 Tree Shaking 優化筆記
 
-因專案目前 Tree Shaking 是失效的，導致無效的 module 無法被優化。以 `portal-front` 為測試基底，進行一系列測試與優化來排查問題。
+因專案目前 Tree Shaking 是失效的，導致無效的 module 無法被優化。專案為測試基底，進行一系列測試與優化來排查問題。
 
 ---
 
