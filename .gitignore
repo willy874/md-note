@@ -8,6 +8,7 @@ Thumbs.db
 *~
 .vscode/
 .idea/
+# .obsidian/
 
 # Claude Code
 .claude/
