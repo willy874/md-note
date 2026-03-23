@@ -15,3 +15,6 @@ Thumbs.db
 
 # Secret
 .secret/
+
+# Environment Variables
+.env
