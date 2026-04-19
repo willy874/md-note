@@ -7,7 +7,7 @@
 傳統做法（task-boxing）是「這件事要做完為止」——結果經常超時、完美主義拖延、一個任務無限延長。時間盒反過來：**先固定時間長度，到點就停，不管完成度**。這看起來違反直覺，但效果驚人，背後有幾個原理：
 
 1. **Parkinson's Law**：工作會膨脹到填滿所有可用時間。給一週寫報告就花一週，給三天就花三天，品質差不多。
-2. **強制取捨**：時間一固定，你被迫放掉「nice-to-have」，只做「must-have」。這和 80/20 精神一致。
+2. **強制取捨**：時間一固定，你被迫放掉「nice-to-have」，只做「must-have」。這和 [80/20](../prioritization/pareto.md) 精神一致。
 3. **降低啟動阻力**：「寫論文」太大太可怕；「寫論文 25 分鐘」非常具體、可以馬上開始。
 4. **保護深度工作**：明確的「時間結束」讓大腦知道何時可以喘息，反而更能在時間內專注。
 
@@ -58,7 +58,7 @@ Pomodoro（25 分鐘 + 5 分鐘休息）是時間盒的特化版。Google Ventur
 
 ## 與其他模型的關係
 
-- **+ 兩分鐘法則**：兩分鐘法則降低「開始」的門檻，timeboxing 管控「停止」的時機。兩者是對稱工具。
-- **+ 80/20 / 艾森豪矩陣**（prioritization 模組）：先用這些挑出值得做的事，再用 timeboxing 執行。
-- **+ PDCA**：每次 timebox 結束的檢視，本質上就是一次微型 PDCA。
-- **vs MVP**：MVP 是內容上的精簡（只做最關鍵假設），timeboxing 是時間上的限制。兩者都靠「刻意設限」逼出品質。
+- **+ [兩分鐘法則](two-minute-rule.md)**：兩分鐘法則降低「開始」的門檻，timeboxing 管控「停止」的時機。兩者是對稱工具。
+- **+ [80/20](../prioritization/pareto.md) / [艾森豪矩陣](../prioritization/eisenhower.md)**（[prioritization 模組](../prioritization/index.md)）：先用這些挑出值得做的事，再用 timeboxing 執行。
+- **+ [PDCA](pdca.md)**：每次 timebox 結束的檢視，本質上就是一次微型 PDCA。
+- **vs [MVP](mvp.md)**：MVP 是內容上的精簡（只做最關鍵假設），timeboxing 是時間上的限制。兩者都靠「刻意設限」逼出品質。

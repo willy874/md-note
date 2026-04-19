@@ -55,8 +55,10 @@
 
 ## 與其他模型的關係
 
-- **+ 艾森豪矩陣**：80/20 找「哪些事值得做」，艾森豪矩陣分「現在做還是稍後」。兩者搭配做個人時間管理。
-- **+ Impact vs Effort**：80/20 是單軸（影響力排序），Impact vs Effort 加上成本軸，適合多方案比較。
-- **+ North Star**：North Star 決定總方向，80/20 在此方向下找最佳施力點。
-- **+ 槓桿**（action 模組）：找到那 20% 後，再問「哪種槓桿能把這 20% 放大？」。
+- **+ [艾森豪矩陣](eisenhower.md)**：80/20 找「哪些事值得做」，艾森豪矩陣分「現在做還是稍後」。兩者搭配做個人時間管理。
+- **+ [Impact vs Effort](impact-effort.md)**：80/20 是單軸（影響力排序），Impact vs Effort 加上成本軸，適合多方案比較。
+- **+ [North Star](north-star.md)**：North Star 決定總方向，80/20 在此方向下找最佳施力點。
+- **+ [槓桿](../action/leverage.md)**（[action 模組](../action/index.md)）：找到那 20% 後，再問「哪種槓桿能把這 20% 放大？」。
+- **+ [timeboxing](../action/timeboxing.md) / [兩分鐘法則](../action/two-minute-rule.md)**（[action 模組](../action/index.md)）：80/20 決定做什麼，timeboxing 保護時段、兩分鐘法則降低啟動門檻。
+- **+ [第一性原理](../analysis/first-principles.md)**（[analysis 模組](../analysis/index.md)）：看不出哪 20% 是真關鍵時，拆回事實重新檢視貢獻結構。
 - **vs 完美主義**：80/20 的核心精神之一就是接受「80% 夠好」，跟完美主義天生衝突。

@@ -59,8 +59,9 @@
 
 ## 與其他模型的關係
 
-- **+ 漢隆剃刀**：漢隆剃刀是奧卡姆剃刀在人際歸因的特化版——「愚蠢」比「惡意」假設少。
-- **+ 第一性原理**（analysis 模組）：第一性原理拆到底層，剃刀決定在多種底層解釋中選哪個。
-- **+ 假設檢定 / Pre-mortem**（decision 模組）：先用剃刀選出最可能的解釋，再設計驗證實驗。
-- **vs Chesterton's Fence**（decision 模組）：剃刀傾向於「沒必要就別加」，Chesterton's Fence 提醒「沒弄清楚原因就別拆」。一個管新增，一個管移除。
-- **+ bias 模組**：剃刀可以對抗陰謀論傾向、代理人假設、overthinking。
+- **+ [漢隆剃刀](hanlon.md)**：漢隆剃刀是奧卡姆剃刀在人際歸因的特化版——「愚蠢」比「惡意」假設少。
+- **+ [第一性原理](../analysis/first-principles.md)**（[analysis 模組](../analysis/index.md)）：第一性原理拆到底層，剃刀決定在多種底層解釋中選哪個。
+- **+ [MECE](../analysis/mece.md)**（[analysis 模組](../analysis/index.md)）：列「所有可能解釋」時用 MECE 保證不重不漏，再用剃刀從中挑最簡的。
+- **+ 假設檢定 / [Pre-mortem](../decision/pre-mortem.md)**（[decision 模組](../decision/index.md)）：先用剃刀選出最可能的解釋，再設計驗證實驗。
+- **vs Chesterton's Fence**（[decision 模組](../decision/index.md)）：剃刀傾向於「沒必要就別加」，Chesterton's Fence 提醒「沒弄清楚原因就別拆」。一個管新增，一個管移除。
+- **+ [bias 模組](../bias/index.md)**：剃刀可以對抗陰謀論傾向、代理人假設、overthinking。

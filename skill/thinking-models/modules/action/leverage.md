@@ -62,7 +62,7 @@ Naval Ravikant 把現代槓桿分成四類：
 
 ## 與其他模型的關係
 
-- **+ 複利思考**：媒體、程式、資本 都是複利型槓桿。兩者疊加才是真正的飛輪。
-- **vs MVP**：MVP 驗證方向、leverage 放大方向。順序很重要——先 MVP 確認市場，再加槓桿放大。
-- **+ 80/20**（prioritization 模組）：找到那 20% 最有槓桿效果的活動。
-- **+ bias 模組**：要警覺倖存者偏誤——別只看槓桿成功者，大部分人敗在中途。
+- **+ [複利思考](compounding.md)**：媒體、程式、資本 都是複利型槓桿。兩者疊加才是真正的飛輪。
+- **vs [MVP](mvp.md)**：MVP 驗證方向、leverage 放大方向。順序很重要——先 MVP 確認市場，再加槓桿放大。
+- **+ [80/20](../prioritization/pareto.md)**（[prioritization 模組](../prioritization/index.md)）：找到那 20% 最有槓桿效果的活動。
+- **+ [bias 模組](../bias/index.md)**：要警覺[倖存者偏誤](../bias/survivorship-bias.md)——別只看槓桿成功者，大部分人敗在中途。
