@@ -3,6 +3,10 @@ title: "［定期短文］龐式騙局，Ponzi scheme"
 created: "2018年6月20日 星期三 14:56:20"
 modified: "2018年7月6日 星期五 09:47:01"
 folder: "竹子日誌文章"
+tags:
+  - 短文
+  - 投資
+  - 議題討論
 ---
 
 ［定期短文］龐式騙局，Ponzi scheme

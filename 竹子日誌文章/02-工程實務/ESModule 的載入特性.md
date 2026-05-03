@@ -3,6 +3,10 @@ title: "ESModule 的載入特性"
 created: "2024年4月11日 星期四 08:45:17"
 modified: "2024年4月17日 星期三 08:32:27"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - JavaScript
+  - 模組化
 ---
 
 # E

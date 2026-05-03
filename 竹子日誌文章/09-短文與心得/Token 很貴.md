@@ -3,6 +3,10 @@ title: "Token 很貴"
 created: "2025年8月4日 星期一 18:24:09"
 modified: "2025年8月8日 星期五 08:19:53"
 folder: "竹子日誌文章"
+tags:
+  - AI
+  - 短文
+  - 反思
 ---
 
 # Token 很貴

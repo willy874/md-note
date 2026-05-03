@@ -3,6 +3,10 @@ title: "關於 Functional Programming"
 created: "2023年8月27日 星期日 18:33:23"
 modified: "2023年8月28日 星期一 08:51:52"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - 設計模式
+  - JavaScript
 ---
 
 # 關於

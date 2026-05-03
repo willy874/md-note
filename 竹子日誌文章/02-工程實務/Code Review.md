@@ -3,6 +3,10 @@ title: "Code Review"
 created: "2024年10月18日 星期五 18:53:22"
 modified: "2024年10月18日 星期五 19:30:38"
 folder: "竹子日誌文章"
+tags:
+  - 工程實務
+  - 團隊
+  - 反思
 ---
 
 # Co

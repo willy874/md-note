@@ -3,6 +3,10 @@ title: "Mobile App和 Mobile Web 是不一樣的東西"
 created: "2022年11月17日 星期四 07:07:25"
 modified: "2022年11月17日 星期四 07:34:58"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - 反思
+  - 工程實務
 ---
 
 # M

@@ -3,6 +3,11 @@ title: "Laravel x Vue Conf"
 created: "2023年8月22日 星期二 07:24:26"
 modified: "2023年8月24日 星期四 09:01:18"
 folder: "竹子日誌文章"
+tags:
+  - 研討會
+  - Vue
+  - 活動紀錄
+  - 前端
 ---
 
 # Laravel

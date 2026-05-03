@@ -3,6 +3,10 @@ title: "前端 Serverless"
 created: "2025年6月27日 星期五 08:21:40"
 modified: "2025年6月27日 星期五 08:36:26"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - 架構
+  - 工程實務
 ---
 
 # 前端 Serverless

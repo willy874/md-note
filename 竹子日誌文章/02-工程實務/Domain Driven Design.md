@@ -3,6 +3,11 @@ title: "Domain Driven Design"
 created: "2023年9月18日 星期一 07:59:36"
 modified: "2023年9月21日 星期四 08:40:59"
 folder: "竹子日誌文章"
+tags:
+  - 架構
+  - DDD
+  - 工程實務
+  - 前端
 ---
 
 # Do

@@ -3,6 +3,9 @@ title: "和 ChatGPT 當好朋友"
 created: "2023年3月8日 星期三 08:42:04"
 modified: "2023年3月9日 星期四 08:46:45"
 folder: "竹子日誌文章"
+tags:
+  - AI
+  - 工具
 ---
 
 # 和

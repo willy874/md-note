@@ -3,6 +3,10 @@ title: "State management"
 created: "2025年4月16日 星期三 21:50:26"
 modified: "2025年4月16日 星期三 21:56:57"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - 狀態管理
+  - Vue
 ---
 
 # S

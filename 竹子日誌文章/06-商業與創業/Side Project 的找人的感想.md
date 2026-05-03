@@ -3,6 +3,10 @@ title: "Side Project 的找人的感想"
 created: "2025年8月20日 星期三 09:28:08"
 modified: "2025年8月20日 星期三 09:38:46"
 folder: "竹子日誌文章"
+tags:
+  - SideProject
+  - 反思
+  - 團隊
 ---
 
 # Side Project 的找人的感想

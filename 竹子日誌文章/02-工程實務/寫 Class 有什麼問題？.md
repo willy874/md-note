@@ -3,6 +3,10 @@ title: "寫 Class 有什麼問題？"
 created: "2024年9月3日 星期二 00:08:25"
 modified: "2024年9月3日 星期二 08:50:01"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - JavaScript
+  - 工程實務
 ---
 
 # 寫

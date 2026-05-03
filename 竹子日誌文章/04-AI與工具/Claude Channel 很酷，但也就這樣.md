@@ -3,6 +3,10 @@ title: "Claude Channel 很酷，但也就這樣"
 created: "2026年3月26日 星期四"
 modified: "2026年3月26日 星期四"
 folder: "竹子日誌文章"
+tags:
+  - AI
+  - 工具
+  - 心得
 ---
 
 # Claude Channel 很酷，但也就這樣

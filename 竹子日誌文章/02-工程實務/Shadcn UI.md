@@ -3,6 +3,11 @@ title: "Shadcn UI"
 created: "2025年8月20日 星期三 20:24:48"
 modified: "2025年8月22日 星期五 08:41:41"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - React
+  - 工具
+  - 反思
 ---
 
 # Shadcn UI

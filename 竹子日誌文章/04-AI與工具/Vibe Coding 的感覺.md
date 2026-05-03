@@ -3,6 +3,10 @@ title: "Vibe Coding 的感覺"
 created: "2025年6月17日 星期二 23:55:09"
 modified: "2025年6月18日 星期三 00:02:50"
 folder: "竹子日誌文章"
+tags:
+  - AI
+  - 工具
+  - 心得
 ---
 
 # Vibe Coding 的感覺

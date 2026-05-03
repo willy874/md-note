@@ -3,6 +3,10 @@ title: "一定要用 TypeScript 嗎？"
 created: "2025年6月11日 星期三 08:17:22"
 modified: "2025年6月11日 星期三 08:33:46"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - TypeScript
+  - 工程實務
 ---
 
 # 一定要用 TypeScript 嗎？

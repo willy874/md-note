@@ -3,6 +3,10 @@ title: "Observable pattern"
 created: "2023年8月30日 星期三 08:44:40"
 modified: "2023年8月30日 星期三 08:49:03"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - 設計模式
+  - 短文
 ---
 
 # Observable

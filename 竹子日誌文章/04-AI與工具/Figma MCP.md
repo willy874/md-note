@@ -3,6 +3,10 @@ title: "Figma MCP"
 created: "2025年7月22日 星期二 21:38:59"
 modified: "2025年7月23日 星期三 00:20:54"
 folder: "竹子日誌文章"
+tags:
+  - Figma
+  - AI
+  - 工具
 ---
 
 # Figma MCP

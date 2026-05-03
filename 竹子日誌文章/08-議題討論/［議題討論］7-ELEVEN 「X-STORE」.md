@@ -3,6 +3,9 @@ title: "［議題討論］7-ELEVEN 「X-STORE」"
 created: "2018年1月31日 星期三 03:08:49"
 modified: "2018年2月3日 星期六 16:52:42"
 folder: "竹子日誌文章"
+tags:
+  - 議題討論
+  - 商業
 ---
 
 ［議題討論］7-ELEVEN 「X-STORE」

@@ -3,6 +3,10 @@ title: "CommonJS 與 ESModule"
 created: "2023年10月5日 星期四 12:54:14"
 modified: "2023年10月15日 星期日 08:43:59"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - JavaScript
+  - 模組化
 ---
 
 # Co

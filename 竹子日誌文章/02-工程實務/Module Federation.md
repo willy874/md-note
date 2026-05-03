@@ -3,6 +3,10 @@ title: "Module Federation"
 created: "2023年7月1日 星期六 18:13:59"
 modified: "2023年7月5日 星期三 18:16:29"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - 微前端
+  - 架構
 ---
 
 Module Federation

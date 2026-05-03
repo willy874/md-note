@@ -3,6 +3,10 @@ title: "Pixel Perfect"
 created: "2024年8月22日 星期四 05:57:26"
 modified: "2024年8月22日 星期四 07:18:22"
 folder: "竹子日誌文章"
+tags:
+  - 前端
+  - 設計
+  - 反思
 ---
 
 # Pixel
