@@ -1,5 +1,7 @@
 ---
 title: "Vibe Drawing"
+created: "2026年5月3日 星期日 14:30:47"
+modified: "2026年5月3日 星期日 14:30:47"
 folder: "竹子日誌文章"
 tags:
   - AI
